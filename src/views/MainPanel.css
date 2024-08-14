@@ -1,0 +1,43 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+
+}
+
+.icon-containers{
+    display: flex;
+}
+*{
+    margin: 0px;
+}
+
+/* .heading-container{
+    margin-top: 10px;
+} */
+
+				
+.player-background{
+    background: linear-gradient(#D1E9F6, #9198e5);
+    color: black;
+    height: 320px;
+    width: 320px;
+    margin: 30px;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+/* 
+.player-background:hover{
+    color: black;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+} */
+
+
+.folders-container{
+    display: flex;
+}
